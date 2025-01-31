@@ -18,17 +18,7 @@
       <name>Nexus Releases</name>
       <url>http://13.212.68.17:8081/repository/sample/</url>
     </repository>
-    <snapshotRepository>
-      <id>nexus</id>
-      <name>Nexus Snapshot</name>
-      <url>http://13.212.68.17:8081/repository/sample/</url>
-    </snapshotRepository>
-    <site>
-      <id>nexus</id>
-      <name>Nexus Sites</name>
-      <url>http://13.212.68.17:8081/repository/sample/</url>
-    </site>
-  </distributionManagement>
+</distributionManagement>
   <build>
     <plugins>
       <plugin>
