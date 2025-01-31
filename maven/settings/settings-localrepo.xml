@@ -6,7 +6,7 @@
       <!--Send all requests to the public group -->
       <id>nexus</id>
       <mirrorOf>*</mirrorOf>
-      <url>http://13.212.68.17:8081/nexus/content/groups/public</url>
+      <url>http://13.212.68.17:8081/sample</url>
     </mirror>
   </mirrors>
   <activeProfiles>
