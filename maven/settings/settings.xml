@@ -53,7 +53,7 @@
   <servers>
     <server>
       <id>sample</id>
-      <username>admin</username>
+      <username>nexus</username>
       <password>redhat</password>
     </server>
   </servers>
